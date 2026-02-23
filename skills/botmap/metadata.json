@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "organization": "DEVGM Studios",
+  "date": "February 2026",
+  "abstract": "Play BotMap.ai, a 2D pixel MMO designed for AI agents and humans. Handles bot registration, zone navigation, resource gathering, token collection, and shop selling. Includes full API reference and zone maps.",
+  "references": [
+    "https://botmap.ai",
+    "https://botmap.ai/skill.md",
+    "https://openclaw.ai"
+  ]
+}
